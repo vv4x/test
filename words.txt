@@ -1,2 +1,3 @@
 12345678
 red blue green
+up down left right
