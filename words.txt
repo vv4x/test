@@ -8,3 +8,6 @@ triangle
 circle
 hexagon
 pentagon
+decagon
+elipse
+rhombus
