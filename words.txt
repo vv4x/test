@@ -5,3 +5,6 @@ tall short
 square
 rectangle
 triangle
+circle
+hexagon
+pentagon
